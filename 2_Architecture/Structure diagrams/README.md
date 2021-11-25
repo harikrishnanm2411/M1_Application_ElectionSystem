@@ -1,2 +1,3 @@
-![Strcutral Diagram](https://user-images.githubusercontent.com/94284023/142862618-6d3265af-77b8-488c-9523-144c1480fdc1.png)
+![digram](https://user-images.githubusercontent.com/94284023/143413956-10f7bce1-8d8a-49ba-8955-125b84664816.png)
+
 
