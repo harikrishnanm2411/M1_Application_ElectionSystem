@@ -2,7 +2,7 @@
 This project allows us to set up a flexible and trustworthy voting system. And also applicable for large as well as small group of people *e.g. a batch, a class*.
 You can also keep a *record* of  every voting process.
 The objective of this project is to provide a comprehensive and safe apporach to the voting system.
-# Features
+## Features
 1. Add n number of new candidates
 2. Provide password for Admin panel
 3. Can block the multiple vote of voters
