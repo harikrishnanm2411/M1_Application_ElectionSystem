@@ -6,6 +6,8 @@
 [![Code Quality - Static Code - Cppcheck](https://github.com/harikrishnanm2411/M1_Application_ElectionSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/harikrishnanm2411/M1_Application_ElectionSystem/actions/workflows/cppcheck.yml)
 
 [![Build Windows](https://github.com/harikrishnanm2411/M1_Application_ElectionSystem/actions/workflows/build_windows.yml/badge.svg)](https://github.com/harikrishnanm2411/M1_Application_ElectionSystem/actions/workflows/build_windows.yml)
+ 
+ [![Contribution Check - Git Inspector](https://github.com/harikrishnanm2411/M1_Application_ElectionSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/harikrishnanm2411/M1_Application_ElectionSystem/actions/workflows/gitinspector.yml)
 
 -> Allows us to set up a flexible and trustworthy voting system
 -> Applicable for large as well as small group of people e.g. a batch, a class.
