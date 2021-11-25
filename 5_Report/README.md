@@ -1,4 +1,3 @@
-![output](https://user-images.githubusercontent.com/94284023/143416425-39dd7e92-69d0-4522-ad82-94aebff9cc9f.png)
 # Introduction 
 This project allows us to set up a flexible and trustworthy voting system. And also applicable for large as well as small group of people *e.g. a batch, a class*.
 You can also keep a *record* of  every voting process.
@@ -50,3 +49,5 @@ The inconvinience is caused in storing data manually and accessing it. Digitally
 | ---|  ----------- | ------ |
 | LLR1 |	User shall be able to fetch perfect required Contact |	Implemented |
 | LLR2 |	System must display data without error |	Implemented |
+## Output
+![output](https://user-images.githubusercontent.com/94284023/143416425-39dd7e92-69d0-4522-ad82-94aebff9cc9f.png)
