@@ -5,7 +5,7 @@
 | 02 |	Check Ileegal voting |	2018btecs00064 | Repeated voting(same id repadted) |		not found
 | 03| 	Check Admin panel |	3 | password |		login
 
-# Low Level Test Plan
+## Low Level Test Plan
 | Test ID |	Description |	Input |		Actual Output |
 | ------- | ----------- | ----- | --------------- | 
 | 01 |	Check voters id	| 2018btecs0006 (user id) |	 voter found |
