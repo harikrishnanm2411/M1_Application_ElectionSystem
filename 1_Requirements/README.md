@@ -3,11 +3,11 @@ This project allows us to set up a flexible and trustworthy voting system. And a
 You can also keep a *record* of  every voting process.
 The objective of this project is to provide a comprehensive and safe apporach to the voting system.
 ## Features
-1. Add n number of new candidates
-2. Provide password for Admin panel
-3. Can block the multiple vote of voters
-4. Can Conduct more number of elections
-5. Publish results with percentage of voting done
+1.  Add n number of new candidates
+2.  Provide password for Admin panel
+3.  Can block the multiple vote of voters
+4.  Can Conduct more number of elections
+5.  Publish results with percentage of voting done
 # SWOT ANALYSIS
 ## Strengths
 Provided with password security for admins.To reduce the delay in processing time. To provide greater flexibility. Make maintenance changes easy.
